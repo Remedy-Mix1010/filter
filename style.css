@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(130, 98, 76);
+}
+canvas{
+    border: 2px solid rgb(89, 62, 44) ;
+    text-align: center;
+}
